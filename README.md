@@ -1,4 +1,3 @@
-Here’s an attractive and professional README for your **Crick-Scorer** project:
 
 ***
 
